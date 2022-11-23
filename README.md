@@ -5,18 +5,23 @@
 ![](https://img.shields.io/badge/pandas-1.3.5-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/matplotlib-3.5.3-informational?style=plastic&logo=appveyor)
 
-
+![alt text](https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/myopia.jpg)  
 ## Background
 
 Welcome to StockInsights. Your one stop shop for all things stock related. Our aim is to keep you up to date with the latest news and relevant information of your searched company to help you make the best educated financial decision.  
 
-##   
+## Aanalsis
 
+![alt text](https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/2clusters.png)  
+
+### Summary:
+
+<img src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/The%20elbow.png' width= 50% ><img src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/3clusters.png' width= 50% /> 
 
     
 ### Summary:
 
-This assignment has been a great venture for us all, as it has allowed us to revise and put into action our newly gained data analytic skills which we have precured over the past few months. It has allowed us to find our strengths and weaknesses within all the new languages and libraries that we have learnt, which then allowed us to turn to each other and ask/ give support and guidance.  
+ 
 
 
 ## Content:
