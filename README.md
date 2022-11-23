@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/pandas-1.3.5-informational?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/matplotlib-3.5.3-informational?style=plastic&logo=appveyor)
 
-<img src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/myopia.jpg' width= 70% >
+![alt text](https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/myopia.jpg)
 
 ## Background
 
@@ -13,7 +13,7 @@ The purpose of this project is demonstrate how to use unsupervised machine learn
 
 ## Aanalsis
 
-![alt text](https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/2clusters.png)  
+<img src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/2clusters.png' width= 70% class="center">  
 
 ### Summary:
 
