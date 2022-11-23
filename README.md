@@ -13,7 +13,7 @@ The purpose of this project is demonstrate how to use unsupervised machine learn
 
 ## Aanalsis
 
-<img align="center" src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/2clusters.png' width= 70% >  
+<p align="center"><img src='https://github.com/LynHJ/UnsupervisedML-MyopiaClusters/blob/d8281ef3033a2080101c464bfe3b299dad52e955/Image/2clusters.png' width= 70% ></p>   
 
 ### Summary:
 
