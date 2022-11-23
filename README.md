@@ -9,7 +9,7 @@
 
 ## Background
 
-Welcome to StockInsights. Your one stop shop for all things stock related. Our aim is to keep you up to date with the latest news and relevant information of your searched company to help you make the best educated financial decision.  
+The purpose of this project is demonstrate how to use unsupervised machine learning skill to classify a data set regarding to myopia. 
 
 ## Aanalsis
 
